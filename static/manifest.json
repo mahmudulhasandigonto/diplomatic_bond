@@ -1,0 +1,20 @@
+{
+    "name": "LUMOS",
+    "short_name": "LUMOS",
+    "icons": [
+        {
+        "src": "/static/img/icons/android-chrome-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+        },
+        {
+        "src": "/static/img/login/logo.png",
+        "sizes": "512x512",
+        "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#fff",
+    "display": "standalone",
+    "scope": "/"
+}
